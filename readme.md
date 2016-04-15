@@ -1,6 +1,6 @@
 # * * * SSL support added * * *
 
-This forked buildpack contains a recompiled nginx binray for Heroku Cedar 14 with SSL module. Also I modified the build script to grab the pcre-8.21-tarball from my own repo instead of the 'not working' sourceforge URL. Won't support SSL on old Cedar.
+This forked buildpack contains a recompiled nginx binary for Heroku Cedar 14 with SSL module. Also I modified the build script to grab the pcre-8.21-tarball from my own repo instead of the 'not working' sourceforge URL. Won't support SSL on old Cedar.
 
 Binary: [https://github.com/arpad1337/nginx-cedar-14-v1.5.7](https://github.com/arpad1337/nginx-cedar-14-v1.5.7)
 
